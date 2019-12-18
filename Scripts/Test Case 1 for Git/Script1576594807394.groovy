@@ -13,7 +13,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('www.google.com')
+WebUI.openBrowser('https://in.yahoo.com/')
+
+WebUI.maximizeWindow()
 
 WebUI.closeBrowser()
 

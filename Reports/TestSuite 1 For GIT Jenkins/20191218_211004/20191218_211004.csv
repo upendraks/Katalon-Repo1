@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite 1 For GIT Jenkins,Chrome 71.0.3578.80,,2019-12-18 21:10:10,2019-12-18 21:10:52,41.726s,PASSED
+,,,,,,
+Test Cases/Test case for Git,Chrome 71.0.3578.80,s,2019-12-18 21:10:11,2019-12-18 21:10:51,40.525s,PASSED
+"openBrowser(""www.google.com"")",Chrome 71.0.3578.80,,2019-12-18 21:10:12,2019-12-18 21:10:51,38.919s,PASSED
+closeBrowser(),Chrome 71.0.3578.80,,2019-12-18 21:10:51,2019-12-18 21:10:51,0.684s,PASSED
